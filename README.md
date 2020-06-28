@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning Assignments from Year 2 of CS Course
+Machine Learning Projects
 
 KNN & Logistic Regression Files -> testing the accuracy of both training methods on a chosen dataset
 
